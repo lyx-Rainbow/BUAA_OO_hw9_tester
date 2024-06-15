@@ -1,0 +1,9 @@
+{
+  "testNum": 1000,
+
+  "nodeLimit": 50,
+  "edgeLimit": 50,
+
+  "jar1": "jar1.jar",
+  "jar2": "jar2.jar"
+}
